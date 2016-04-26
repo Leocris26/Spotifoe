@@ -4,7 +4,7 @@
 			header("Location:Inicio.html");
 	}
 	else {
-		header("Location:Sprint1/Cancion2.php");
+		header("Location:Cancion2.php");
 	
 }
 ?>    

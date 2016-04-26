@@ -3,8 +3,8 @@
 <head>
 	<title>Registrarse</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link rel="stylesheet" href="basic.css">
-	<link rel="shortcut icon" href="images/icon.ico">
+	<link rel="stylesheet" href="style/basic.css">
+	<link rel="shortcut icon" href="favicon.ico">
 </head>
 <body>
 <?php
