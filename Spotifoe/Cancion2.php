@@ -4,7 +4,7 @@
 	<title>
 		Motor de busqueda
 	</title>
-	<link rel = "stylesheet" href = "formato.css">
+	<link rel = "stylesheet" href = "style/formato.css">
 	<meta http-equiv="Content-Type" contents="text/html; charset=UTF-8">
 </head>
 <body
